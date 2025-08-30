@@ -1,51 +1,52 @@
-# Portfolio – Backend & Web Development Project
+# Portfolio
 
-This repository highlights selected projects demonstrating my skills in:
-- Program/Project Management (leading team projects from planning to delivery)
-- Backend Development (Java, Spring, MyBatis, REST APIs)
+Hi! I'm Jaeyoung, and this repository showcases my skills in:  
+- **Project Planning & Design**: flowcharts, menu structures, requirements specifications, functional specifications, and database design  
+- **Backend Development**: Java, Spring, MyBatis, REST APIs  
+- **Project Management**: leading team projects from planning to delivery
 
+---
 
-
-## Featured Projects
+## 📂 Featured Project
 
 ### Itwill Project – Second-hand Item 4989
-A project to develop a web-based marketplace for second-hand IT devices.  
-
+A web-based marketplace for second-hand IT devices.
 
 #### Tech Stack
-- Languages: Java, HTML, CSS, JavaScript  
-- Framework/Library: Spring, MyBatis, jQuery, Bootstrap  
-- DBMS: MySQL  
-- API Integration: Naver OpenAPI, Kakao Developers  
-- Tools: IntelliJ IDEA, ERD, Google Docs, Slack, Notion  
+- **Languages**: Java, HTML, CSS, JavaScript  
+- **Framework/Library**: Spring, MyBatis, jQuery, Bootstrap  
+- **DBMS**: MySQL  
+- **API Integration**: Naver OpenAPI, Kakao Developers  
+- **Tools**: IntelliJ IDEA, ERD, Google Docs, Slack, Notion  
 
+#### Screenshots
+**Product List** – Filtering, categories, wishlist, and product details  
+<img src="images/ProductList_4989.png" alt="ProductList" width="600"/>
 
-#### Screenshots for Key Features
-Product List – Filtering, categories, wishlist, and product details  
+**Product Detail** – Information from the product registration and chat with the seller  
+<img src="images/ProductDetail_4989.png" alt="ProductDetail" width="600"/>
 
-![Product List](./images/ProductList_4989.png)
+**Chat** – WebSocket-based live chat and product status updates  
+<img src="images/Chat_4989.png" alt="Chat" width="600"/>
 
-Product Detail – Information from the product registration and chat with the seller
+**My Page** – Wishlist, sales history, purchase history, and edit user information  
+<img src="images/MyPage_4989.png" alt="MyPage" width="600"/>
 
-![Product Detail](./images/ProductDetail_4989.png)
-
-Chat – WebSocket-based live chat and product status updates  
-
-![Chat](./images/Chat_4989.png)
-
-My Page – Wishlist, sales history, purchase history, and edit user information   
-
-![My Page](./images/MyPage_4989.png)
-
-
-#### The Other Features
-- User registration, login, and profile management 
+#### Other Features
+- User registration, login, and profile management  
 - Wishlist and cart functionality  
 - Transaction management (buy/sell history)  
 - Admin dashboard (user, transaction, product management)
 
+#### Other Work
+Additional small projects and experiments in:  
+- Automation (workflow scripts, APIs)  
+- Data Handling (MySQL, data processing)
 
-## Contact
-- LinkedIn: https://linkedin.com/in/choi6344 
+---
+
+Thanks for your time! 🙏
+
+## 📫 Contact Me
 - Email: choi6344@gmail.com
-
+- LinkedIn: [https://linkedin.com/in/choi6344](https://linkedin.com/in/choi6344)  
